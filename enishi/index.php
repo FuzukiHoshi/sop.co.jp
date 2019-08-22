@@ -199,7 +199,6 @@
                                 ＞
                             </div>
                         </a>
-                        <p class="p-popup-duration">展示期間 2019.05.01 〜 05.31</p>
                         <div class="p-popup-prof">
                             <p class="p-popup-prof--pic"><img src="/enishi/top/images/popupImg01.jpg" alt=""></p>
                             <dl class="p-popup-prof--detail">
@@ -221,7 +220,6 @@
                                 ＞
                             </div>
                         </a>
-                        <p class="p-popup-duration">展示期間 2019.05.01 〜 05.31</p>
                         <div class="p-popup-prof">
                             <p class="p-popup-prof--pic"><img src="/enishi/top/images/popupImg02.jpg" alt=""></p>
                             <dl class="p-popup-prof--detail">
@@ -243,7 +241,6 @@
                                 ＞
                             </div>
                         </a>
-                        <p class="p-popup-duration">展示期間 2019.05.01 〜 05.31</p>
                         <div class="p-popup-prof">
                             <p class="p-popup-prof--pic"><img src="/enishi/top/images/popupImg03.jpg" alt=""></p>
                             <dl class="p-popup-prof--detail">
@@ -374,6 +371,15 @@
                     </dd>
                 </dl>
         </div>
+		<div><dl class="p-fadeIn--02  u-mt30  u-mb30">
+				<a href="/enishi/top/pdf/enishi_lunch.pdf" target="_blank">
+                   <p>
+                      <img src="/enishi/top/images/lunch_bnr.png" alt="lunch" class="u-hiddenXs">
+                      <img src="/enishi/top/images/lunch_bnr_sp.png" alt="lunch" class="u-showXs">
+                    </p>
+                </a>
+                </dl>
+		</div>
     </sectoin>
     <section id="member" class="l-container u-anchor">
         <div class="p-member">

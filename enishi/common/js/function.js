@@ -53,6 +53,16 @@ function fadeIn() {
     });
 }
 
+$(document).ready(
+  function(){
+    $("a img") .hover(function(){
+       $(this).fadeTo("4000",0.5); // マウスオーバーで透明度を50%にする
+    },function(){
+       $(this).fadeTo("4000",1.0); // マウスアウトで透明度を100%に戻す
+    });
+  });
+
+
 function load() {
     $('#footer').addClass('is-start')
 }
